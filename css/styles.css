@@ -22,8 +22,11 @@
     font-weight: 800;
 }
 
-.button {
+.cuerpoTabla {
     display: flex;
-    flex-direction: column;
+    border: 5px solid black;
+
 }
+
+
 
