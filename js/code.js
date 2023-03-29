@@ -18,6 +18,10 @@ const crearDeuda = () => {
 
   localStorage.setItem("deudas", JSON.stringify(deudas));
   mostrarDeudas();
+
+  idInput.value = "";
+  nombreImput.value = "";
+  montoDeuda.value = "";
 };
 
 const mostrarDeudas = () => {

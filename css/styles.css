@@ -10,3 +10,20 @@
    margin-left: 20%;
    margin-right: 20%;
 }
+
+.footer{
+    margin-top: 10%;
+    background-color: lightgray;
+    padding-bottom: 0%;
+}
+
+.ultimoParrafo{
+    text-align: center;
+    font-weight: 800;
+}
+
+.button {
+    display: flex;
+    flex-direction: column;
+}
+
