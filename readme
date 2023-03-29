@@ -1,0 +1,6 @@
+# Proyecto-2-Aplicacion-CRUD
+Este es un repositorio en el cual se aplico en JAVASCRIPT el proceso CRUD (CREAR, LEER, ACTUALIZAR Y ELIMINAR) 
+Que en sus siglas en ingles son create, read, update and delete.
+Se realizó un administrador de pagos donde se diigencian los espacios de nombre y monto de dinero adeudado,
+Se le da al boton crear para crear y mostrar automaticamente el ID unico de la deuda, el nombre y el monto.
+Asimismo se evidencian los botones de eliminar y editar con el fin de eliminar la deuda y/o editarla si aplica el caso
